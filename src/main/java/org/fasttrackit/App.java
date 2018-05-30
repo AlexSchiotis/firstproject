@@ -22,7 +22,7 @@ public class App
 
             if( i % 2 == 0)
 
-                System.out.println( i + " dIa___it`s OVERPOWER...! :D");
+                System.out.println( i + " dIa___ is OVERPOWER...! :D");
 
     }
 }
