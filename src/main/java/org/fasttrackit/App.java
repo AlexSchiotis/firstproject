@@ -23,6 +23,11 @@ public class App
             if( i % 2 == 0)
 
                 System.out.println( i + " dIa___it`s OVERPOWER...! :D");
+                 System.out.println("dIa______OP?"+" "+"NO!");
+        System.out.println("dIa_______is Nuab!");
 
     }
-}
+
+
+    }
+
